@@ -715,6 +715,11 @@ summary::marker {
 
 
 #page7 {
+    display: flex;
     height: 100vh;
-    background-color: #111;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    align-items: center;
 }
+
