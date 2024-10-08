@@ -29,6 +29,17 @@ nav h1 {
     font-size: 1.6vw;
 }
 
+.nav-elem h4:hover{
+    color: #0BA34E;
+    cursor: pointer;
+
+}
+.nav-elem h5 span:hover{
+    color: #0BA34E;
+    cursor: pointer;
+
+}
+
 .nav-part2 {
     display: flex;
     gap: 2vw;
