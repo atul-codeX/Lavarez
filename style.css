@@ -80,6 +80,10 @@ nav button {
     border-radius: 50px;
     border: none;
 }
+nav button:hover{
+    background-color: grey;
+    color: #000;
+}
 
 nav button svg {
     height: 0.8vw;
@@ -153,6 +157,11 @@ nav button svg {
     /* background-color: red; */
     border: none;
     padding: 2px;
+}
+
+#page1-something h4:hover{
+    background-color: #0BA34E;
+    color: #000;
 }
 
 #moving-div {
