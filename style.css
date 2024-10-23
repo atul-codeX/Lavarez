@@ -28,6 +28,16 @@ nav {
 nav h1 {
     font-size: 1.6vw;
 }
+.nav-elem h4:hover {
+  
+    color: #0BA34E;
+}
+
+.nav-elem h5 span:hover{
+    color: #0BA34E;
+    text-decoration: underline;
+}
+
 
 .nav-part2 {
     display: flex;
